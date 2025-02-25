@@ -23,4 +23,5 @@ Personal Fitness Tracker is a **Python and Streamlit-based** application designe
 
 ---
 
-📸 Website Demo 
+## 📸 Website Demo 
+![Image](https://github.com/user-attachments/assets/50c25128-1584-42d0-a2ae-1ee0d87e0490)
