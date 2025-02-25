@@ -18,8 +18,7 @@ Personal Fitness Tracker is a **Python and Streamlit-based** application designe
 - **Python** 🐍
 - **Streamlit** 🌐 (for interactive UI)
 - **Pandas** 📊 (for data handling)
-- **Matplotlib/Seaborn** 📈 (for data visualization)
-- **SQLite** 🗄️ (for storing fitness data)
+- **Matplotlib** 📈 (for data visualization)
 
 ---
 
